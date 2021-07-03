@@ -1,0 +1,20 @@
+.content-container{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 20px;
+    /* background-color: #f5f0f0; */
+}
+
+p {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+h6{
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.divider{
+    border-bottom: 1px solid #d1c7c7;
+}

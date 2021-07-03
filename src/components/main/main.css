@@ -1,0 +1,35 @@
+.border-top-bottom {
+    border-top: 1px solid #d1c7c7;
+    border-bottom: 1px solid #d1c7c7;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #d1c7c7;
+}
+
+.active {
+    background-color: black;
+}
+
+.mtop-large {
+    margin-top: 100px;
+}
+
+.sidemenu{
+    width: 200px;
+    overflow: hidden;
+    position: fixed;
+    top: 120px;
+}
+
+@media screen and (max-width: 769px) {
+    .sm-d-none {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 769px) {
+    .sm-d-block {
+        display: block;
+    }
+}

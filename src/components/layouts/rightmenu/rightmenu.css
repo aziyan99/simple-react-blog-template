@@ -1,0 +1,23 @@
+.rightmenu{
+    border: 1px solid #d1c7c7;
+    width: 100%;
+}
+
+.rightmenu-header{
+    margin-left: 0;
+    margin-right: 0;
+    border-bottom:  1px solid #d1c7c7;
+    padding: 10px;
+}
+
+.rightmenu-content {
+    padding: 10px;
+}
+
+.content {
+    margin: 10px;
+}
+
+.link-small{
+    font-size: 12px;
+}
